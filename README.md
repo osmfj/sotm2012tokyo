@@ -3,19 +3,9 @@ State of the Map 2012 Tokyo 開催時のデジタルコンテンツアーカイ�
 
 ## SotM 2012 Tokyo テーマソング 「 Free to the Map 」
 * [mp3ファイル](https://github.com/osmfj/sotm2012tokyo/tree/main/music4SotM2012)
-* © Takashige Nakagawa, Naoki Ueda, Takayuki Nakamura, Taichi Furuhashi and OpenStreetMap Contributors
-
-music by Takayuki Nakamura ℗ 2012 BRAINSTORM.CO.LTD.
-
-powered by Miraikan(National Museum of Emerging Science and Innovation, Japan)
-
-2nd use/Remix license only for SotM(State of the Map) with Non Commercial
 
 
-テーマソング "Free to the Map"
-Free to the Map
-
-地図に自由を
+## Free to the Map / 地図に自由を
 
 We've been lookin' for you　　long long time
 
@@ -86,3 +76,14 @@ No matter who you knew　　or you didn't know
 gether everyone's power　　and let get every body dance
 
 みんなの情報　　あつめて踊ろう
+
+
+## ライセンス
+© Takashige Nakagawa, Naoki Ueda, Taichi Furuhashi and OpenStreetMap Contributors
+
+origin music by Takayuki Nakamura ℗ 2012 BRAINSTORM.CO.LTD.
+
+powered by Miraikan(National Museum of Emerging Science and Innovation, Japan)
+
+2nd use/Remix license only for SotM(State of the Map) with Non Commercial
+
